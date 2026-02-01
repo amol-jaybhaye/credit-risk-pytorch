@@ -122,17 +122,3 @@ Each run creates a timestamped folder under `runs/` containing:
 - plots (ROC, PR, calibration, etc.)
 
 ---
-
-## Why This Project
-
-This project demonstrates:
-
-- end-to-end ML pipeline ownership
-- baseline-first modeling discipline
-- use of business-relevant evaluation metrics
-- reproducible training and evaluation
-- clean separation of data, model, and training logic
-
-It is designed to reflect **real applied data science work**, not toy experiments.
-
----
